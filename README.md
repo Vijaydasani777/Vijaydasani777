@@ -115,7 +115,7 @@ I am open to:
 
 📧 Email: vijaydasani.777@gmail.com
 
-🌐 Portfolio: Coming Soon
+🌐 Portfolio: [Visit on my portfolio](https://vijaydasani777.github.io/portfolio/)
 
 ---
 
