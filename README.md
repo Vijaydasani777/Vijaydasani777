@@ -40,7 +40,7 @@ Analysis of mobile sales performance to identify sales trends, top-performing br
 
 **Tools:** Microsoft Excel, Power BI
 
-🔗 [View Project](YOUR_MOBILE_SALES_REPOSITORY_LINK)
+🔗 [View Project](https://github.com/Vijaydasani777/Mobile_Sales_AnalysisDashboard)
 
 ---
 
@@ -49,7 +49,7 @@ Analysis of delivery and sales data to understand business performance, order tr
 
 **Tools:** Microsoft Excel, Power BI
 
-🔗 [View Project](YOUR_BLINKIT_REPOSITORY_LINK)
+🔗 [View Project](https://github.com/Vijaydasani777/Blinkit-data-analysis-dashboard)
 
 ---
 
@@ -58,7 +58,7 @@ SQL-based analysis of pizza sales data to identify revenue trends, top-selling p
 
 **Tools:** SQL
 
-🔗 [View Project](YOUR_PIZZA_SALES_REPOSITORY_LINK)
+🔗 [View Project](https://github.com/Vijaydasani777/Pizza-Sales-SQL-Analysis)
 
 ---
 
@@ -67,7 +67,7 @@ A SQL database project involving database design, data management, and business 
 
 **Tools:** SQL, Database Management
 
-🔗 [View Project](YOUR_BOOKSTORE_REPOSITORY_LINK)
+🔗 [View Project](https://github.com/Vijaydasani777/bookstore-database)
 
 ---
 
